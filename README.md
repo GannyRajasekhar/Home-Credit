@@ -1,2 +1,2 @@
 # Home-Credit
-Home Credit Upgrade Case Study
+BFSI Home Credit Case Study
